@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=yousra%20Bouzafour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%201337%20School%20(UM6P)&descSize=16&descAlignY=55"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+AI+systems+from+the+ground+up;From+bare-metal+C%2B%2B+to+RAG+pipelines;FastAPI+%2B+LangChain+%2B+Qdrant+%F0%9F%A4%96;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=yousra%20Bouzafour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20%E2%80%A2%201337%20School%20(UM6P)&descSize=16&descAlignY=55"/>
 
 <br/>
 
