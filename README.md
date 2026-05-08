@@ -67,7 +67,7 @@
 **Full Stack  Developer Intern — UM6P · College of Computing**
 `Jun 2025 → Dec 2025`
 
-Full-stack  platform for IT support. 
+Full-stack  platform. 
 
 </td>
 </tr>
