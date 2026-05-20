@@ -82,6 +82,34 @@ Full-stack  platform.
 <tr>
 <td align="center" width="240">
 
+### 📈 ft_linear_regression
+`Python · Machine Learning`
+
+Linear regression implementation from scratch using gradient descent.  
+**Data prediction & model training**
+
+</td>
+
+<td align="center" width="240">
+
+### 📷 DSLR
+`Python · Data Science`
+
+Logistic regression & data visualization project inspired by Hogwarts dataset.  
+**Classification, preprocessing & statistics**
+
+</td>
+
+<td align="center" width="240">
+
+### 🧠 Multilayer Perceptron
+`Python · Deep Learning`
+
+Neural network implementation from scratch with forward/backpropagation.  
+**Binary classification using NumPy**
+
+</td>
+
 ### 🏓 ft_transcendence
 `Django · WebSockets · Docker`
 
